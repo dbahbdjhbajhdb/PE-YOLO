@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "PE-YOLO: A Parameter-Efficient YOLOv11-Based Detector for UAV Small Object Detection"
+message: "If you use this software, please cite the PE-YOLO paper after it is published."
+type: software
+authors:
+  - name: "PE-YOLO contributors"
+repository-code: "https://github.com/dbahbdjhbajhdb/PE-YOLO"
+license: AGPL-3.0
